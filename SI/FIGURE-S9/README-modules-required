@@ -1,0 +1,13 @@
+ml anaconda3/2023.09-0 tcutil/tcutil
+conda activate py39
+
+run code.py first
+
+Then run contour-try-gau.py
+
+This code can be simplified by using "read_xyzs_as_np" function so that no tmp directory is needed.
+
+However, the complete QT trajectory is quite big and heavy (2GB) and seems that breaking it into individual files is faster
+
+Same for FIGURE-S8
+

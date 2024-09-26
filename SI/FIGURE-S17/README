@@ -1,0 +1,9 @@
+HT vs BLA hops at S1/S0 differentiated at 75 fs, also differentiation with S2/S1 hops 
+
+----
+ml anaconda3/2023.09-0 tcutil/tcutil
+conda activate py39
+
+run the script to get the priliminary version
+
+Updated versions are available with Nanna

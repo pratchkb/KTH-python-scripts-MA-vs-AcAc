@@ -1,0 +1,8 @@
+ml anaconda3/2023.09-0 tcutil/tcutil
+conda activate py39
+
+run code.py first
+
+Then run contour-try-gau.py
+
+Wigner file has the corrected HT value

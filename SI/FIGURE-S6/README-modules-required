@@ -1,0 +1,7 @@
+ml anaconda3/2023.09-0 tcutil/tcutil
+conda activate py39
+
+
+All python scripts need to be run first
+
+then combine all figures

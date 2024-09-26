@@ -1,0 +1,10 @@
+ml anaconda3/2023.09-0 tcutil/tcutil
+conda activate py39
+
+run code-all.py 
+
+run code-wig-1.2.py for getting the distribution for geometries with avg CH < 1.2 which is used in the plot
+
+run code-complete.traj.py  for running the completel QT trajectory (2GB)
+
+then run the contour-try-gau.py

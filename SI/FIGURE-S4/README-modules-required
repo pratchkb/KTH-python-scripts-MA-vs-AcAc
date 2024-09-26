@@ -1,0 +1,4 @@
+ml anaconda3/2023.09-0 tcutil/tcutil
+conda activate py39
+
+run both "correlation.py" (S2 energy) and "correlation-diff.py" (S2-S1 energy)

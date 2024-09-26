@@ -1,0 +1,9 @@
+ml anaconda3/2023.09-0 tcutil/tcutil
+conda activate py39
+
+generate the individual population plots by running the scripts inside "Population" folder and "Population/ALL-traj-no-discard"
+
+Order
+
+1. create-pop.py
+2. pop-AcAc.py

@@ -1,0 +1,5 @@
+ml anaconda3/2023.09-0 tcutil/tcutil
+conda activate py39
+
+
+run the two python scripts and combine them

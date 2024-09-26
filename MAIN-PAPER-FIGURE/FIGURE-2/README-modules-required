@@ -1,0 +1,9 @@
+ml anaconda3/2023.09-0 tcutil/tcutil
+conda activate py39
+
+update data in the .txt files with new real shift calculations
+
+run "python Multiple_MA_plots_version2.py XXX.txt"
+run "python Multiple_acac_plots_version2.py XXX.txt"
+
+combine them in svg

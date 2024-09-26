@@ -1,0 +1,2 @@
+ml anaconda3/2023.09-0 tcutil/tcutil
+conda activate py39

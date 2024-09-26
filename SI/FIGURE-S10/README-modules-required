@@ -1,0 +1,5 @@
+ml anaconda3/2023.09-0 tcutil/tcutil
+conda activate py39
+
+run pythonscript (with proper paths if different set of calculations are required)
+
